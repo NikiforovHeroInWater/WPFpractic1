@@ -1,0 +1,15 @@
+C:\Users\semen\Music\вариант1\вариант1\bin\Debug\вариант1.exe.config
+C:\Users\semen\Music\вариант1\вариант1\bin\Debug\вариант1.exe
+C:\Users\semen\Music\вариант1\вариант1\bin\Debug\вариант1.pdb
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.csproj.AssemblyReference.cache
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\MainWindow.g.cs
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\App.g.cs
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1_MarkupCompile.cache
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1_MarkupCompile.lref
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\MainWindow.baml
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.g.resources
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.Properties.Resources.resources
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.csproj.GenerateResource.cache
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.csproj.CoreCompileInputs.cache
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.exe
+C:\Users\semen\Music\вариант1\вариант1\obj\Debug\вариант1.pdb

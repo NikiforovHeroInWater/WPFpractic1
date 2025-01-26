@@ -1,0 +1,17 @@
+﻿<Window x:Class="Вариант3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Вариант3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="162" Width="155">
+    <StackPanel>
+        <Label>Регистрация пользователя</Label>
+        <Label>ФИО</Label>
+        <TextBox HorizontalAlignment="Left" Width="124"></TextBox>
+        <Label>email</Label>
+        <TextBox HorizontalAlignment="Left" Width="124"></TextBox>
+        <Button>Зарегистрироваться</Button>
+    </StackPanel>
+</Window>

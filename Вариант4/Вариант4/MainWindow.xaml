@@ -1,0 +1,17 @@
+﻿<Window x:Class="Вариант4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Вариант4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <Label DockPanel.Dock="Top">Регистрация пользователя</Label>
+        <Label DockPanel.Dock="Left">ФИО</Label>
+        <TextBox DockPanel.Dock="Left" Width="230"></TextBox>
+        <Label DockPanel.Dock="Right">email</Label>
+        <TextBox DockPanel.Dock="Right" Width="230"></TextBox>
+        <Button DockPanel.Dock="Bottom" Content="Зарегистрироваться" Height="35"></Button>
+    </DockPanel>
+</Window>
